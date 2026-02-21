@@ -1,4 +1,6 @@
 # Awesome Nim ⚡
+![awesome-nim-logo](https://github.com/user-attachments/assets/f6b17a37-5250-4daa-859d-3804de2ada96)
+![68747470733a2f2f617765736f6d652e72652f62616467652e737667](https://github.com/user-attachments/assets/ed526b8d-8aa8-45f1-95e1-586e4d8cb06b)
 
 > A curated list of **high-quality** Nim projects, applications, tutorials, books, and resources.
 
